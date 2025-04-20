@@ -22,7 +22,7 @@ const Home: React.FC = () => {
 
   return (
     <div className="flex justify-between items-center p-4">
-      <h1>Welcome to Home Page</h1>
+      <h1>Auth Application</h1>
       <Button onClick={handleClick}>
         <img
           src="https://img.icons8.com/ios-filled/50/000000/person-male.png"
