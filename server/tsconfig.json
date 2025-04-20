@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "commonjs", // Required to use `require`
+    "target": "es6",
+    "esModuleInterop": true, // Makes `require` work better with ES modules
+    "types": ["node"] // This is key!
+  }
+}
